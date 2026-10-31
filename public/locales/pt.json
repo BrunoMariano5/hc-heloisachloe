@@ -1,0 +1,174 @@
+{
+  "meta": { "tagline": "Moda infantil premium do nascimento aos 10 anos" },
+  "topbar": { "message": "Pré-lançamento · Produtos e imagens demonstrativos · Frete grátis acima de R$ 299" },
+  "nav": {
+    "language": "Idioma", "menu": "Abrir menu", "close": "Fechar menu", "main": "Navegação principal",
+    "search": "Buscar", "searchPlaceholder": "Buscar macacões, bodies, kits…",
+    "home": "Início", "account": "Minha conta", "favorites": "Favoritos", "cart": "Sacola",
+    "meninos": "Meninos", "meninas": "Meninas", "enxoval": "Enxoval", "colecoes": "Coleções",
+    "about": "Sobre a HC", "contact": "Contato"
+  },
+  "cat": {
+    "macacoes": "Macacões", "bodies": "Bodies", "camisetas": "Camisetas", "toucas": "Toucas",
+    "natacao": "Moda praia", "kits": "Kits recém-nascido", "mantas": "Mantas", "toalhas": "Toalhas",
+    "cueiros": "Cueiros", "acessorios": "Acessórios"
+  },
+  "colors": { "offwhite": "Off-white", "azul": "Azul claro", "rosa": "Rosa delicado", "salvia": "Verde sálvia", "marinho": "Azul-marinho", "bege": "Bege" },
+  "common": { "viewAll": "Ver todos", "breadcrumb": "Você está em", "all": "Todos" },
+  "pillars": { "cotton": "Algodão premium", "quality": "Qualidade garantida", "comfort": "Conforto em cada detalhe", "world": "Para o mundo" },
+  "home": {
+    "heroKicker": "Coleção de lançamento",
+    "heroTitle": "Do primeiro abraço<br>aos dez anos.",
+    "heroLead": "Roupas infantis com qualidade, conforto e beleza para acompanhar cada fase — feitas para durar e para serem lembradas.",
+    "shopGirls": "Comprar meninas", "shopBoys": "Comprar meninos",
+    "heroAltGirl": "Bebê sorrindo com macacão off-white bordado HC (imagem conceitual)",
+    "heroAltBoy": "Bebê com macacão de capuz e orelhinhas HC (imagem conceitual)",
+    "introKicker": "Heloísa Chloé",
+    "introTitle": "Conforto, estilo e amor em cada detalhe.",
+    "introText": "A HC nasce para acompanhar o crescimento das crianças, do primeiro dia aos 10 anos. Peças pensadas com o cuidado de quem veste o próprio filho, com preço justo e acabamento de marca internacional.",
+    "collectionsKicker": "Uma coleção para cada fase", "collectionsTitle": "Coleções em destaque",
+    "bestKicker": "Os preferidos das famílias", "bestTitle": "Mais vendidos",
+    "detailsKicker": "Acabamento HC", "detailsTitle": "Os detalhes que fazem a diferença",
+    "detailsText": "Bordado da coroa, etiqueta macia sem atrito e tag de presente: cada peça HC chega pronta para ser guardada como lembrança.",
+    "altEmbroidery": "Bordado da coroa HC em malha azul-marinho", "altLabel": "Etiqueta interna HC", "altTag": "Tag de papel HC Babywear",
+    "newKicker": "Acabou de chegar", "newTitle": "Novidades",
+    "enxovalKicker": "Enxoval", "enxovalTitle": "Kits de enxoval prontos para a chegada",
+    "enxovalText": "Bodies, macacões, mantas, toalhas e acessórios combinados por fase e cor — para montar o enxoval com calma e presentear com segurança.",
+    "altKit": "Kit de enxoval HC com manta, almofada e ursinho",
+    "enxovalCta": "Ver kits", "enxovalAll": "Todo o enxoval",
+    "philoKicker": "Nossa filosofia", "philoTitle": "Uma coroa para todos os bebês.",
+    "philoText": "Príncipes e princesas: a coroa HC é a mesma para todos. Ela representa o valor de cada criança e o compromisso de vesti-la bem em todas as fases.",
+    "philoCta": "Conheça a HC"
+  },
+  "section": {
+    "meninos": { "kicker": "Para eles", "text": "Macacões, bodies, camisetas, toucas e moda praia — conforto para engatinhar, correr e descobrir." },
+    "meninas": { "kicker": "Para elas", "text": "Macacões, bodies, camisetas, toucas e moda praia com delicadeza e liberdade de movimento." },
+    "enxoval": { "kicker": "Para a chegada", "text": "Tudo para os primeiros meses: kits, mantas, toalhas, bodies, macacões, cueiros e acessórios." }
+  },
+  "collections": { "kicker": "Do nascimento aos 10 anos", "text": "Quatro coleções, uma para cada fase do crescimento.", "pieces": "{n} peças disponíveis" },
+  "list": {
+    "empty": "Nenhum produto por aqui ainda.", "noMatch": "Nenhum produto com esses filtros.",
+    "count": "{n} produtos", "size": "Tamanho", "collection": "Coleção", "allCollections": "Todas as coleções",
+    "sort": "Ordenar", "sortFeatured": "Destaques", "sortPriceAsc": "Menor preço", "sortPriceDesc": "Maior preço", "sortName": "Nome",
+    "soonTitle": "Em breve", "soonText": "{name} HC está em desenvolvimento e chega nas próximas coleções.", "seeAvailable": "Ver peças disponíveis"
+  },
+  "search": { "resultsFor": "Resultados para “{q}”", "all": "Todos os produtos", "none": "Não encontramos produtos para essa busca." },
+  "product": {
+    "badgeNew": "Novidade", "badgeBest": "Mais vendido",
+    "demoAlt": "imagem conceitual, modelo demonstrativo", "demoShort": "Modelo demonstrativo",
+    "demoLong": "Imagens conceituais. Produtos, preços e composição são demonstrativos e provisórios.",
+    "favorite": "Favoritar", "favAdded": "Adicionado aos favoritos", "favRemoved": "Removido dos favoritos",
+    "image": "Ver imagem {n}", "color": "Cor", "size": "Tamanho", "sizeGuide": "Guia de tamanhos",
+    "lastUnits": "últimas", "qty": "Quantidade", "less": "Diminuir", "more": "Aumentar",
+    "addToCart": "Adicionar à sacola", "soldOut": "Esgotado", "chooseSize": "Escolha um tamanho",
+    "added": "{name} foi para a sacola", "details": "Detalhes",
+    "care": "Cuidados", "careText": "Lavar à mão ou na máquina em ciclo delicado, água fria, do avesso. Não usar alvejante. Secar à sombra. Passar em temperatura baixa, sem passar sobre o bordado.",
+    "exchange": "Trocas e devoluções", "exchangeText": "Primeira troca grátis em até 30 dias e direito de arrependimento em até 7 dias após o recebimento, conforme o Código de Defesa do Consumidor. Política definitiva será publicada no lançamento.",
+    "relatedKicker": "Combine com", "related": "Você também pode gostar"
+  },
+  "sizes": { "age": "Idade", "height": "Altura", "months": "meses", "note": "Tabela de referência provisória. Na dúvida, escolha um tamanho acima." },
+  "shipping": {
+    "calc": "Calcular frete", "calcBtn": "Calcular", "standard": "Entrega padrão", "express": "Entrega expressa",
+    "days": "até {n} dias úteis", "free": "Grátis",
+    "estimateNote": "Estimativa provisória por região. Os valores finais serão calculados pela transportadora."
+  },
+  "cart": {
+    "view": "Ver sacola", "emptyTitle": "Sua sacola está vazia", "emptyText": "Que tal começar pelos mais vendidos da HC?",
+    "continue": "Continuar comprando", "remove": "Remover", "summary": "Resumo",
+    "freeReached": "Você ganhou frete grátis na entrega padrão!", "freeMissing": "Faltam {v} para frete grátis",
+    "subtotal": "Subtotal", "total": "Total", "checkout": "Finalizar compra"
+  },
+  "checkout": {
+    "title": "Finalizar compra", "contact": "Contato", "loggedAs": "Comprando como {name}.",
+    "haveAccount": "Já tem conta?", "address": "Endereço de entrega", "shipping": "Frete",
+    "shippingHint": "Informe o CEP para ver as opções de entrega.", "payment": "Pagamento",
+    "paymentReady": "Pagamento seguro", "paymentReadyText": "Você será direcionado ao ambiente seguro do provedor de pagamento.",
+    "paymentPendingTitle": "Pagamento online em preparação",
+    "paymentPendingText": "Pix, cartão e boleto serão processados diretamente por um provedor de pagamento certificado. A HC não armazena dados de cartão. Enquanto a integração não estiver ativa, nenhum pedido é criado e nada é cobrado.",
+    "submit": "Continuar para o pagamento", "privacy": "Seus dados de endereço são usados apenas para esta entrega.",
+    "editCart": "Editar sacola",
+    "validatedTitle": "Tudo certo com o seu pedido — falta só o pagamento",
+    "validatedText": "Conferimos produtos, estoque, preços e frete. O pagamento online da HC ainda não foi ativado, por isso nenhum pedido foi criado e nenhum valor foi cobrado.",
+    "talkToUs": "Fale com a HC"
+  },
+  "form": { "name": "Nome completo", "email": "E-mail", "cep": "CEP", "street": "Rua", "number": "Número", "complement": "Complemento", "city": "Cidade", "state": "UF", "password": "Senha" },
+  "account": {
+    "intro": "Entre para salvar favoritos e acompanhar seus pedidos.",
+    "login": "Entrar", "register": "Criar conta", "create": "Criar minha conta",
+    "passwordHint": "Mínimo de 8 caracteres, com letras e números.",
+    "privacy": "Li e aceito a política de privacidade.", "marketing": "Quero receber novidades da HC por e-mail.",
+    "dataNote": "Guardamos apenas nome, e-mail e senha criptografada. Nenhum documento ou dado de pagamento é armazenado.",
+    "welcome": "Bem-vindo(a), {name}!", "hello": "Olá, {name}",
+    "favCount": "{n} peças salvas", "orders": "Pedidos", "noOrders": "Seus pedidos aparecerão aqui.",
+    "data": "Seus dados", "dataText": "Você pode sair ou excluir sua conta a qualquer momento.",
+    "logout": "Sair", "delete": "Excluir minha conta",
+    "deleteConfirm": "Excluir sua conta HC? Esta ação não pode ser desfeita.", "deleted": "Conta excluída."
+  },
+  "favorites": {
+    "synced": "Seus favoritos estão salvos na sua conta.", "local": "Favoritos salvos neste navegador. Entre na sua conta para guardá-los.",
+    "empty": "Toque no coração das peças para salvá-las aqui."
+  },
+  "about": {
+    "kicker": "Nossa história", "title": "Tudo começou com um sorriso.",
+    "lead": "Heloísa Chloé nasceu em 7 de julho de 2026, às 11h25, trazendo consigo uma alegria que transformou completamente a vida de seus pais.",
+    "birthStamp": "7 de julho de 2026 · 11h25",
+    "storyTitle": "Nossa história",
+    "story": [
+      "Uma menina radiante, feliz, maravilhosa e dona de um sorriso capaz de iluminar qualquer ambiente. A cada dia, ela encanta seus pais com suas descobertas, suas expressões e cada pequeno momento de sua infância.",
+      { "h": "Foi justamente desse amor que nasceu a HC — Heloísa Chloé." },
+      "Seus pais tinham um desejo em comum: aproveitar cada vez mais o tempo ao lado da filha, acompanhar seu crescimento, participar de suas descobertas e não deixar que a correria da vida impedisse a vivência dos momentos mais importantes.",
+      "E foi dessa vontade que surgiu uma ideia: criar algo que pudesse representar o amor, o cuidado e a alegria de acompanhar uma criança crescer.",
+      { "h": "Assim nasceu a HC." },
+      "Mais do que uma marca de roupas infantis, queremos construir uma marca que faça parte da história das famílias. Desde os primeiros dias de vida, passando pelas primeiras descobertas, brincadeiras, aprendizados e conquistas até os 10 anos de idade.",
+      "Queremos oferecer roupas, enxovais, brinquedos, livros e experiências que tornem cada fase ainda mais especial."
+    ],
+    "closingSign": "HC — Heloísa Chloé",
+    "closing": "Uma história que começou com uma menina, nasceu do amor de uma família e tem o sonho de conquistar o mundo.",
+    "closingLine": "Porque a infância passa rápido. Mas as lembranças ficam para sempre.",
+    "missionTitle": "Missão", "mission": "Levar conforto, qualidade, carinho e felicidade para crianças e famílias de todo o mundo.",
+    "visionTitle": "Visão", "vision": "Ser uma referência internacional em moda infantil, reconhecida pelo cuidado nos detalhes e pela confiança das famílias no Brasil e no mundo.",
+    "valuesTitle": "Nossos valores",
+    "values": {
+      "quality": { "t": "Qualidade", "d": "Matérias-primas selecionadas e acabamento revisado peça por peça." },
+      "comfort": { "t": "Conforto", "d": "Primeiro a pele e a liberdade de movimento da criança; depois, todo o resto." },
+      "care": { "t": "Carinho", "d": "Desenhamos como quem veste o próprio filho." },
+      "fair": { "t": "Preço justo", "d": "Premium não precisa ser inacessível." },
+      "durability": { "t": "Durabilidade", "d": "Roupas que resistem às lavagens e passam adiante." },
+      "inclusion": { "t": "Para todos", "d": "Meninos e meninas, aqui e no mundo — a mesma coroa para cada criança." }
+    },
+    "journeyKicker": "Do nascimento aos 10 anos", "journeyTitle": "A HC cresce junto com seu filho."
+  },
+  "contact": {
+    "lead": "Estamos aqui para ajudar com tamanhos, presentes, trocas e pedidos.",
+    "soon": "Canal em configuração", "service": "Atendimento ao cliente",
+    "faqKicker": "Dúvidas", "faqTitle": "Perguntas frequentes"
+  },
+  "faq": {
+    "shipping": { "q": "Para onde a HC entrega?", "a": "Para todo o Brasil. O prazo e o valor aparecem no carrinho ao informar o CEP. Frete grátis na entrega padrão acima de R$ 299." },
+    "exchange": { "q": "Como funciona a troca?", "a": "A primeira troca é gratuita em até 30 dias. Você também pode desistir da compra em até 7 dias após o recebimento." },
+    "sizes": { "q": "Como escolho o tamanho?", "a": "Use o guia de tamanhos na página de cada produto. Entre dois tamanhos, prefira o maior — bebês crescem rápido." },
+    "payment": { "q": "Quais formas de pagamento serão aceitas?", "a": "Pix, cartão de crédito e boleto, processados por um provedor certificado. O pagamento online será ativado no lançamento oficial." },
+    "international": { "q": "A HC entrega fora do Brasil?", "a": "Ainda não, mas o site já está preparado em português, inglês e japonês para a expansão internacional." },
+    "care": { "q": "Como cuidar das peças?", "a": "Lavagem delicada em água fria, do avesso, sem alvejante e secagem à sombra preservam a cor e o bordado." }
+  },
+  "footer": {
+    "about": "Moda infantil premium do nascimento aos 10 anos. Conforto, estilo e amor em cada detalhe.",
+    "shop": "Loja", "institutional": "Institucional", "service": "Atendimento",
+    "rights": "Todos os direitos reservados.",
+    "prototype": "Protótipo de pré-lançamento: produtos, imagens e preços são demonstrativos. Nenhuma venda é realizada."
+  },
+  "errors": {
+    "pageTitle": "Algo não saiu como esperado",
+    "notFoundTitle": "Página não encontrada", "notFoundText": "A página que você procura não existe ou mudou de lugar.",
+    "INTERNAL_ERROR": "Não foi possível concluir agora. Tente novamente em instantes.",
+    "INVALID_FIELD": "Verifique este campo.", "INVALID_EMAIL": "Informe um e-mail válido.",
+    "INVALID_CEP": "Informe um CEP válido com 8 dígitos.", "INVALID_SHIPPING": "Escolha uma opção de frete.",
+    "EMPTY_CART": "Sua sacola está vazia.", "OUT_OF_STOCK": "Algum item não tem estoque suficiente. Revise a sacola.",
+    "INVALID_CART": "Revise os itens da sacola.",
+    "EMAIL_IN_USE": "Já existe uma conta com este e-mail.", "WEAK_PASSWORD": "Use ao menos 8 caracteres, com letras e números.",
+    "PRIVACY_REQUIRED": "É preciso aceitar a política de privacidade.",
+    "INVALID_CREDENTIALS": "E-mail ou senha incorretos.", "TOO_MANY_ATTEMPTS": "Muitas tentativas. Aguarde alguns minutos.",
+    "UNAUTHENTICATED": "Entre na sua conta para continuar.",
+    "PAYMENT_NOT_CONFIGURED": "O pagamento online ainda não está ativo."
+  }
+}

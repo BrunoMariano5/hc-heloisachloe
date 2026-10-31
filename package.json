@@ -1,0 +1,13 @@
+{
+  "name": "hc-heloisa-chloe",
+  "version": "0.1.0",
+  "private": true,
+  "description": "HC — Heloísa Chloé: site oficial e loja virtual (protótipo)",
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node --watch server/index.js",
+    "reset-data": "node server/scripts/reset-data.js"
+  }
+}

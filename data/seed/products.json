@@ -1,0 +1,206 @@
+[
+  {
+    "id": "p-body-essential",
+    "slug": "body-hc-essential",
+    "name": "Body HC Essential",
+    "price": 49.90,
+    "compareAtPrice": null,
+    "category": "bodies",
+    "genders": ["meninos", "meninas"],
+    "collections": ["newborn", "baby"],
+    "enxoval": true,
+    "tags": ["bestseller"],
+    "active": true,
+    "demo": true,
+    "colors": [
+      { "id": "offwhite", "hex": "#F4EEE4" },
+      { "id": "azul", "hex": "#BFD3E6" },
+      { "id": "rosa", "hex": "#EBC9C9" },
+      { "id": "salvia", "hex": "#A9B8A0" }
+    ],
+    "stock": { "RN": 24, "P": 30, "M": 30, "G": 18 },
+    "images": [
+      { "src": "/assets/img/hc-colecao.webp", "size": [1312, 1199], "crop": [462, 500, 418, 262] },
+      { "src": "/assets/img/hc-meninos.webp", "size": [1254, 1254], "crop": [357, 820, 271, 310] }
+    ],
+    "description": {
+      "pt": "O básico que toda primeira gaveta precisa. Body de manga curta em malha macia, com coroa HC bordada no peito e abertura por botões de pressão para trocas rápidas.",
+      "en": "The essential every first drawer needs. A soft short-sleeve bodysuit with the embroidered HC crown and snap closures for quick changes.",
+      "ja": "最初の引き出しに欠かせない定番。HCのクラウン刺繍入り、スナップボタンでおむつ替えも簡単な半袖ボディ。"
+    },
+    "details": {
+      "pt": ["Malha 100% algodão (especificação provisória)", "Bordado HC no peito", "Botões de pressão no gancho", "Costuras planas"],
+      "en": ["100% cotton knit (provisional specification)", "HC chest embroidery", "Snap crotch closure", "Flat seams"],
+      "ja": ["綿100%ニット(仮仕様)", "胸元にHC刺繍", "股下スナップ", "フラットシーム"]
+    }
+  },
+  {
+    "id": "p-body-premium",
+    "slug": "body-hc-premium",
+    "name": "Body HC Premium",
+    "price": 59.90,
+    "compareAtPrice": null,
+    "category": "bodies",
+    "genders": ["meninos", "meninas"],
+    "collections": ["baby"],
+    "enxoval": true,
+    "tags": ["new"],
+    "active": true,
+    "demo": true,
+    "colors": [
+      { "id": "marinho", "hex": "#1F2B4D" },
+      { "id": "offwhite", "hex": "#F4EEE4" },
+      { "id": "salvia", "hex": "#A9B8A0" },
+      { "id": "azul", "hex": "#BFD3E6" }
+    ],
+    "stock": { "P": 20, "M": 22, "G": 16, "GG": 10 },
+    "images": [
+      { "src": "/assets/img/hc-meninos.webp", "size": [1254, 1254], "crop": [946, 822, 308, 308] },
+      { "src": "/assets/img/hc-meninos.webp", "size": [1254, 1254], "crop": [0, 820, 347, 310] }
+    ],
+    "description": {
+      "pt": "Manga longa em malha encorpada, com bordado HC em linha dourada. Pensado para os dias mais frescos, sem abrir mão da leveza.",
+      "en": "Long sleeves in a substantial knit with HC embroidery in golden thread. Made for cooler days without losing lightness.",
+      "ja": "しっかりとしたニット素材の長袖ボディ。金糸のHC刺繍入り。涼しい日にも軽やかに。"
+    },
+    "details": {
+      "pt": ["Malha encorpada (especificação provisória)", "Bordado em linha dourada", "Ombro envelope", "Botões de pressão"],
+      "en": ["Heavier knit (provisional specification)", "Golden thread embroidery", "Envelope shoulders", "Snap closures"],
+      "ja": ["厚手ニット(仮仕様)", "金糸刺繍", "エンベロープショルダー", "スナップボタン"]
+    }
+  },
+  {
+    "id": "p-macacao-classic",
+    "slug": "macacao-hc-classic",
+    "name": "Macacão HC Classic",
+    "price": 89.90,
+    "compareAtPrice": null,
+    "category": "macacoes",
+    "genders": ["meninos", "meninas"],
+    "collections": ["newborn", "baby"],
+    "enxoval": true,
+    "tags": ["bestseller"],
+    "active": true,
+    "demo": true,
+    "colors": [
+      { "id": "offwhite", "hex": "#F4EEE4" },
+      { "id": "azul", "hex": "#BFD3E6" }
+    ],
+    "stock": { "RN": 12, "P": 18, "M": 18, "G": 12 },
+    "images": [
+      { "src": "/assets/img/hc-meninos.webp", "size": [1254, 1254], "crop": [275, 405, 250, 405] },
+      { "src": "/assets/img/hc-meninos.webp", "size": [1254, 1254], "crop": [637, 820, 301, 310] }
+    ],
+    "description": {
+      "pt": "Gola polo, punhos listrados e abotoamento frontal. Um clássico atemporal para os primeiros retratos de família.",
+      "en": "Polo collar, striped cuffs and front buttons. A timeless classic for the first family portraits.",
+      "ja": "ポロカラーとストライプの袖口、前開きボタン。家族の最初の写真にふさわしいタイムレスな一着。"
+    },
+    "details": {
+      "pt": ["Moletinho leve (especificação provisória)", "Gola polo com vivo marinho", "Abertura total por botões", "Bordado HC"],
+      "en": ["Light fleece (provisional specification)", "Polo collar with navy piping", "Full button opening", "HC embroidery"],
+      "ja": ["軽量スウェット(仮仕様)", "ネイビーパイピングのポロカラー", "フルボタン開閉", "HC刺繍"]
+    }
+  },
+  {
+    "id": "p-macacao-royal",
+    "slug": "macacao-hc-royal",
+    "name": "Macacão HC Royal",
+    "price": 119.90,
+    "compareAtPrice": null,
+    "category": "macacoes",
+    "genders": ["meninos", "meninas"],
+    "collections": ["baby"],
+    "enxoval": false,
+    "tags": ["bestseller"],
+    "active": true,
+    "demo": true,
+    "colors": [
+      { "id": "marinho", "hex": "#1F2B4D" },
+      { "id": "bege", "hex": "#E3D3BF" }
+    ],
+    "stock": { "P": 10, "M": 14, "G": 10, "GG": 6 },
+    "images": [
+      { "src": "/assets/img/hc-meninos.webp", "size": [1254, 1254], "crop": [0, 405, 278, 405] },
+      { "src": "/assets/img/hc-meninos.webp", "size": [1254, 1254], "crop": [0, 820, 347, 310] }
+    ],
+    "description": {
+      "pt": "Capuz com orelhinhas, forro listrado e bolsos frontais. O macacão que virou a assinatura da HC para os dias de passeio.",
+      "en": "Hood with little ears, striped lining and front pockets. The romper that became HC's signature for days out.",
+      "ja": "くま耳フード、ストライプの裏地、フロントポケット。お出かけの日のHCを代表するロンパース。"
+    },
+    "details": {
+      "pt": ["Moletom flanelado (especificação provisória)", "Capuz forrado com orelhas", "Botões frontais", "Punhos e barras canelados"],
+      "en": ["Brushed fleece (provisional specification)", "Lined hood with ears", "Front buttons", "Ribbed cuffs and hems"],
+      "ja": ["裏起毛スウェット(仮仕様)", "耳付き裏地フード", "フロントボタン", "リブ袖口・裾"]
+    }
+  },
+  {
+    "id": "p-macacao-signature",
+    "slug": "macacao-hc-signature",
+    "name": "Macacão HC Signature",
+    "price": 149.90,
+    "compareAtPrice": null,
+    "category": "macacoes",
+    "genders": ["meninos", "meninas"],
+    "collections": ["baby"],
+    "enxoval": false,
+    "tags": ["new"],
+    "active": true,
+    "demo": true,
+    "colors": [
+      { "id": "salvia", "hex": "#A9B8A0" },
+      { "id": "offwhite", "hex": "#F4EEE4" }
+    ],
+    "stock": { "P": 8, "M": 10, "G": 8, "GG": 4 },
+    "images": [
+      { "src": "/assets/img/hc-meninos.webp", "size": [1254, 1254], "crop": [520, 405, 252, 405] },
+      { "src": "/assets/img/hc-meninos.webp", "size": [1254, 1254], "crop": [946, 822, 308, 308] }
+    ],
+    "description": {
+      "pt": "Verde sálvia, zíper de ponta a ponta e capuz com orelhinhas. A peça mais especial da linha, com acabamento de alfaiataria infantil.",
+      "en": "Sage green, full-length zip and a hood with little ears. The most special piece of the line, with children's tailoring finishes.",
+      "ja": "セージグリーンにフルジップ、くま耳フード。子ども服の仕立て技術を生かした、ラインで最も特別な一着。"
+    },
+    "details": {
+      "pt": ["Moletom premium (especificação provisória)", "Zíper com protetor de queixo", "Bolsos embutidos", "Bordado HC tom sobre tom"],
+      "en": ["Premium fleece (provisional specification)", "Zip with chin guard", "Set-in pockets", "Tone-on-tone HC embroidery"],
+      "ja": ["プレミアムスウェット(仮仕様)", "あごガード付きジップ", "インポケット", "同色のHC刺繍"]
+    }
+  },
+  {
+    "id": "p-kit-newborn",
+    "slug": "kit-hc-newborn",
+    "name": "Kit HC Newborn",
+    "price": 399.90,
+    "compareAtPrice": null,
+    "category": "kits",
+    "genders": ["meninos", "meninas"],
+    "collections": ["newborn"],
+    "enxoval": true,
+    "tags": ["bestseller", "new"],
+    "active": true,
+    "demo": true,
+    "colors": [
+      { "id": "offwhite", "hex": "#F4EEE4" },
+      { "id": "azul", "hex": "#BFD3E6" },
+      { "id": "rosa", "hex": "#EBC9C9" }
+    ],
+    "stock": { "RN": 10, "P": 10 },
+    "images": [
+      { "src": "/assets/img/hc-colecao.webp", "size": [1312, 1199], "crop": [932, 822, 380, 238] },
+      { "src": "/assets/img/hc-colecao.webp", "size": [1312, 1199], "crop": [0, 822, 318, 238] },
+      { "src": "/assets/img/hc-colecao.webp", "size": [1312, 1199], "crop": [887, 500, 425, 262] }
+    ],
+    "description": {
+      "pt": "Tudo o que a chegada pede, reunido em uma caixa presenteável: bodies, macacão, manta, touca e toalha com capuz — todos com a coroa HC.",
+      "en": "Everything a new arrival needs in a gift-ready box: bodysuits, romper, blanket, hat and hooded towel — all with the HC crown.",
+      "ja": "誕生に必要なものをギフトボックスに。ボディ、ロンパース、ブランケット、帽子、フード付きタオル。すべてHCクラウン入り。"
+    },
+    "details": {
+      "pt": ["2 bodies, 1 macacão, 1 manta, 1 touca, 1 toalha com capuz", "Caixa presente HC", "Cartão para mensagem", "Composição final a confirmar"],
+      "en": ["2 bodysuits, 1 romper, 1 blanket, 1 hat, 1 hooded towel", "HC gift box", "Message card", "Final contents to be confirmed"],
+      "ja": ["ボディ2枚、ロンパース1枚、ブランケット、帽子、フード付きタオル", "HCギフトボックス", "メッセージカード", "最終内容は確認中"]
+    }
+  }
+]

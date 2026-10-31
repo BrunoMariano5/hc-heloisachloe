@@ -1,0 +1,27 @@
+# Render Blueprint — site HC no plano gratuito.
+# No painel do Render: New > Blueprint > escolher este repositório.
+services:
+  - type: web
+    name: hc-heloisachloe
+    runtime: node
+    plan: free
+    region: virginia
+    buildCommand: npm install --omit=dev
+    startCommand: npm start
+    healthCheckPath: /api/settings/public
+    autoDeploy: true
+    envVars:
+      - key: NODE_VERSION
+        value: "22"
+      - key: NODE_ENV
+        value: production
+      - key: TRUST_PROXY
+        value: "true"
+      # Loja demonstrativa: fora do Google até o lançamento
+      - key: ALLOW_INDEXING
+        value: "false"
+      - key: ADMIN_EMAIL
+        value: admin@hc.local
+      # Senha forte gerada pelo Render; veja em Environment no painel do serviço
+      - key: ADMIN_PASSWORD
+        generateValue: true

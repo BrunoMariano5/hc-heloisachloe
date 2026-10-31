@@ -1,0 +1,58 @@
+[
+  {
+    "id": "newborn",
+    "slug": "newborn",
+    "name": "HC Newborn",
+    "order": 1,
+    "active": true,
+    "age": { "pt": "Recém-nascidos até 3 meses", "en": "Newborn to 3 months", "ja": "新生児〜3か月" },
+    "description": {
+      "pt": "Primeiras peças, tecidos macios e fechamentos pensados para mãos cuidadosas.",
+      "en": "First pieces, soft fabrics and closures designed for careful hands.",
+      "ja": "はじめての服。やわらかな生地と、扱いやすい留め具。"
+    },
+    "image": { "src": "/assets/img/hc-colecao.webp", "size": [1312, 1199], "crop": [0, 822, 318, 238] }
+  },
+  {
+    "id": "baby",
+    "slug": "baby",
+    "name": "HC Baby",
+    "order": 2,
+    "active": true,
+    "age": { "pt": "3 a 12 meses", "en": "3 to 12 months", "ja": "3〜12か月" },
+    "description": {
+      "pt": "Macacões e bodies para engatinhar, descobrir e sorrir o dia inteiro.",
+      "en": "Rompers and bodysuits for crawling, discovering and smiling all day.",
+      "ja": "はいはいも、発見も、笑顔も。一日中快適なロンパースとボディ。"
+    },
+    "image": { "src": "/assets/img/hc-colecao.webp", "size": [1312, 1199], "crop": [0, 500, 455, 262] }
+  },
+  {
+    "id": "kids",
+    "slug": "kids",
+    "name": "HC Kids",
+    "order": 3,
+    "active": true,
+    "age": { "pt": "1 a 5 anos", "en": "1 to 5 years", "ja": "1〜5歳" },
+    "description": {
+      "pt": "Peças resistentes para brincar, com o mesmo cuidado dos primeiros meses.",
+      "en": "Durable pieces for play, with the same care as the first months.",
+      "ja": "思いきり遊べる丈夫な服を、最初の数か月と同じこだわりで。"
+    },
+    "image": { "src": "/assets/img/hc-colecao.webp", "size": [1312, 1199], "crop": [326, 822, 307, 238] }
+  },
+  {
+    "id": "junior",
+    "slug": "junior",
+    "name": "HC Junior",
+    "order": 4,
+    "active": true,
+    "age": { "pt": "6 a 10 anos", "en": "6 to 10 years", "ja": "6〜10歳" },
+    "description": {
+      "pt": "Estilo próprio e conforto para quem já escolhe a roupa do dia.",
+      "en": "Their own style and comfort, for kids who already choose their outfit.",
+      "ja": "自分で服を選ぶ年頃に。自分らしいスタイルと着心地を。"
+    },
+    "image": { "src": "/assets/img/hc-meninos.webp", "size": [1254, 1254], "crop": [946, 822, 308, 308] }
+  }
+]

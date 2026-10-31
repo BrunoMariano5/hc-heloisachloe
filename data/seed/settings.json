@@ -1,0 +1,15 @@
+{
+  "storeName": "HC — Heloísa Chloé",
+  "currency": "BRL",
+  "contact": {
+    "whatsapp": "",
+    "instagram": "",
+    "email": "",
+    "hours": { "pt": "Segunda a sexta, 9h às 18h", "en": "Monday to Friday, 9am to 6pm (BRT)", "ja": "月〜金 9:00〜18:00(ブラジル時間)" }
+  },
+  "shipping": {
+    "freeShippingThreshold": 299,
+    "handlingDays": 2
+  },
+  "lowStockThreshold": 8
+}

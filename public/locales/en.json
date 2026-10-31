@@ -1,0 +1,174 @@
+{
+  "meta": { "tagline": "Premium childrenswear from birth to age 10" },
+  "topbar": { "message": "Pre-launch · Demo products and images · Free shipping over R$ 299 (Brazil)" },
+  "nav": {
+    "language": "Language", "menu": "Open menu", "close": "Close menu", "main": "Main navigation",
+    "search": "Search", "searchPlaceholder": "Search rompers, bodysuits, kits…",
+    "home": "Home", "account": "My account", "favorites": "Wishlist", "cart": "Bag",
+    "meninos": "Boys", "meninas": "Girls", "enxoval": "Layette", "colecoes": "Collections",
+    "about": "About HC", "contact": "Contact"
+  },
+  "cat": {
+    "macacoes": "Rompers", "bodies": "Bodysuits", "camisetas": "T-shirts", "toucas": "Hats",
+    "natacao": "Swimwear", "kits": "Newborn kits", "mantas": "Blankets", "toalhas": "Towels",
+    "cueiros": "Swaddles", "acessorios": "Accessories"
+  },
+  "colors": { "offwhite": "Off-white", "azul": "Light blue", "rosa": "Soft pink", "salvia": "Sage green", "marinho": "Navy", "bege": "Beige" },
+  "common": { "viewAll": "View all", "breadcrumb": "You are here", "all": "All" },
+  "pillars": { "cotton": "Premium cotton", "quality": "Guaranteed quality", "comfort": "Comfort in every detail", "world": "For the world" },
+  "home": {
+    "heroKicker": "Launch collection",
+    "heroTitle": "From the first hug<br>to age ten.",
+    "heroLead": "Childrenswear with quality, comfort and beauty for every stage — made to last and to be remembered.",
+    "shopGirls": "Shop girls", "shopBoys": "Shop boys",
+    "heroAltGirl": "Smiling baby in an off-white romper with HC embroidery (concept image)",
+    "heroAltBoy": "Baby in an HC hooded romper with little ears (concept image)",
+    "introKicker": "Heloísa Chloé",
+    "introTitle": "Comfort, style and love in every detail.",
+    "introText": "HC was born to grow alongside children, from day one to age 10. Pieces made with the care of a parent dressing their own child, at fair prices and with the finish of an international brand.",
+    "collectionsKicker": "A collection for every stage", "collectionsTitle": "Featured collections",
+    "bestKicker": "Family favourites", "bestTitle": "Best sellers",
+    "detailsKicker": "The HC finish", "detailsTitle": "The details that make the difference",
+    "detailsText": "Crown embroidery, a soft tag that never scratches and a gift tag: every HC piece arrives ready to be kept as a keepsake.",
+    "altEmbroidery": "HC crown embroidery on navy knit", "altLabel": "HC inner label", "altTag": "HC Babywear paper tag",
+    "newKicker": "Just arrived", "newTitle": "New in",
+    "enxovalKicker": "Layette", "enxovalTitle": "Layette kits ready for the big arrival",
+    "enxovalText": "Bodysuits, rompers, blankets, towels and accessories coordinated by stage and colour — to build the layette calmly and gift with confidence.",
+    "altKit": "HC layette kit with blanket, pillow and teddy bear",
+    "enxovalCta": "Shop kits", "enxovalAll": "All layette",
+    "philoKicker": "Our philosophy", "philoTitle": "One crown for every baby.",
+    "philoText": "Princes and princesses: the HC crown is the same for all. It stands for the worth of every child and our promise to dress them well at every stage.",
+    "philoCta": "Discover HC"
+  },
+  "section": {
+    "meninos": { "kicker": "For him", "text": "Rompers, bodysuits, t-shirts, hats and swimwear — comfort to crawl, run and discover." },
+    "meninas": { "kicker": "For her", "text": "Rompers, bodysuits, t-shirts, hats and swimwear with delicacy and freedom of movement." },
+    "enxoval": { "kicker": "For the arrival", "text": "Everything for the first months: kits, blankets, towels, bodysuits, rompers, swaddles and accessories." }
+  },
+  "collections": { "kicker": "From birth to age 10", "text": "Four collections, one for each stage of growing up.", "pieces": "{n} pieces available" },
+  "list": {
+    "empty": "No products here yet.", "noMatch": "No products match these filters.",
+    "count": "{n} products", "size": "Size", "collection": "Collection", "allCollections": "All collections",
+    "sort": "Sort", "sortFeatured": "Featured", "sortPriceAsc": "Price: low to high", "sortPriceDesc": "Price: high to low", "sortName": "Name",
+    "soonTitle": "Coming soon", "soonText": "HC {name} is in development and arrives in upcoming collections.", "seeAvailable": "See available pieces"
+  },
+  "search": { "resultsFor": "Results for “{q}”", "all": "All products", "none": "We couldn't find products for this search." },
+  "product": {
+    "badgeNew": "New", "badgeBest": "Best seller",
+    "demoAlt": "concept image, demo model", "demoShort": "Demo model",
+    "demoLong": "Concept images. Products, prices and materials are for demonstration and provisional.",
+    "favorite": "Add to wishlist", "favAdded": "Added to wishlist", "favRemoved": "Removed from wishlist",
+    "image": "View image {n}", "color": "Colour", "size": "Size", "sizeGuide": "Size guide",
+    "lastUnits": "last few", "qty": "Quantity", "less": "Decrease", "more": "Increase",
+    "addToCart": "Add to bag", "soldOut": "Sold out", "chooseSize": "Choose a size",
+    "added": "{name} added to your bag", "details": "Details",
+    "care": "Care", "careText": "Hand or machine wash on a delicate cycle, cold water, inside out. Do not bleach. Dry in the shade. Iron on low, avoiding the embroidery.",
+    "exchange": "Exchanges & returns", "exchangeText": "First exchange free within 30 days and returns within 7 days of delivery, under Brazilian consumer law. The final policy will be published at launch.",
+    "relatedKicker": "Pair it with", "related": "You may also like"
+  },
+  "sizes": { "age": "Age", "height": "Height", "months": "months", "note": "Provisional reference chart. If in doubt, size up." },
+  "shipping": {
+    "calc": "Estimate shipping", "calcBtn": "Calculate", "standard": "Standard delivery", "express": "Express delivery",
+    "days": "up to {n} business days", "free": "Free",
+    "estimateNote": "Provisional regional estimate. Final rates will be calculated by the carrier. Brazil only for now (CEP)."
+  },
+  "cart": {
+    "view": "View bag", "emptyTitle": "Your bag is empty", "emptyText": "Why not start with HC's best sellers?",
+    "continue": "Continue shopping", "remove": "Remove", "summary": "Summary",
+    "freeReached": "You've earned free standard shipping!", "freeMissing": "{v} away from free shipping",
+    "subtotal": "Subtotal", "total": "Total", "checkout": "Checkout"
+  },
+  "checkout": {
+    "title": "Checkout", "contact": "Contact", "loggedAs": "Shopping as {name}.",
+    "haveAccount": "Already have an account?", "address": "Delivery address", "shipping": "Shipping",
+    "shippingHint": "Enter your CEP (postcode) to see delivery options.", "payment": "Payment",
+    "paymentReady": "Secure payment", "paymentReadyText": "You will be taken to the payment provider's secure environment.",
+    "paymentPendingTitle": "Online payment coming soon",
+    "paymentPendingText": "Pix, cards and boleto will be processed directly by a certified payment provider. HC never stores card data. Until the integration is live, no order is created and nothing is charged.",
+    "submit": "Continue to payment", "privacy": "Your address is used only for this delivery.",
+    "editCart": "Edit bag",
+    "validatedTitle": "Your order checks out — only payment is missing",
+    "validatedText": "We verified products, stock, prices and shipping. HC's online payment is not active yet, so no order was created and nothing was charged.",
+    "talkToUs": "Talk to HC"
+  },
+  "form": { "name": "Full name", "email": "Email", "cep": "CEP (postcode)", "street": "Street", "number": "Number", "complement": "Apt / suite", "city": "City", "state": "State", "password": "Password" },
+  "account": {
+    "intro": "Sign in to save your wishlist and follow your orders.",
+    "login": "Sign in", "register": "Create account", "create": "Create my account",
+    "passwordHint": "At least 8 characters, with letters and numbers.",
+    "privacy": "I have read and accept the privacy policy.", "marketing": "Send me HC news by email.",
+    "dataNote": "We only store your name, email and encrypted password. No documents or payment data are stored.",
+    "welcome": "Welcome, {name}!", "hello": "Hello, {name}",
+    "favCount": "{n} saved pieces", "orders": "Orders", "noOrders": "Your orders will appear here.",
+    "data": "Your data", "dataText": "You can sign out or delete your account at any time.",
+    "logout": "Sign out", "delete": "Delete my account",
+    "deleteConfirm": "Delete your HC account? This cannot be undone.", "deleted": "Account deleted."
+  },
+  "favorites": {
+    "synced": "Your wishlist is saved to your account.", "local": "Wishlist saved in this browser. Sign in to keep it.",
+    "empty": "Tap the heart on any piece to save it here."
+  },
+  "about": {
+    "kicker": "Our story", "title": "It all began with a smile.",
+    "lead": "Heloísa Chloé was born on July 7, 2026, at 11:25 a.m., bringing a joy that completely transformed her parents' lives.",
+    "birthStamp": "July 7, 2026 · 11:25 a.m.",
+    "storyTitle": "Our story",
+    "story": [
+      "A radiant, happy, wonderful little girl with a smile that can light up any room. Every day she delights her parents with her discoveries, her expressions and every small moment of her childhood.",
+      { "h": "It was from this love that HC — Heloísa Chloé was born." },
+      "Her parents shared one wish: to spend more and more time with their daughter, to follow her growth, to share in her discoveries and never let the rush of life take away the moments that matter most.",
+      "And from that wish came an idea: to create something that could represent the love, the care and the joy of watching a child grow.",
+      { "h": "That is how HC was born." },
+      "More than a children's clothing brand, we want to build a brand that becomes part of families' stories — from the very first days of life, through first discoveries, games, lessons and achievements, all the way to age 10.",
+      "We want to offer clothes, layettes, toys, books and experiences that make every stage even more special."
+    ],
+    "closingSign": "HC — Heloísa Chloé",
+    "closing": "A story that began with a little girl, was born from a family's love and dreams of reaching the whole world.",
+    "closingLine": "Because childhood goes by fast. But the memories last forever.",
+    "missionTitle": "Mission", "mission": "To bring comfort, quality, care and happiness to children and families all over the world.",
+    "visionTitle": "Vision", "vision": "To be an international reference in childrenswear, known for care in every detail and the trust of families in Brazil and worldwide.",
+    "valuesTitle": "Our values",
+    "values": {
+      "quality": { "t": "Quality", "d": "Selected materials and a finish checked piece by piece." },
+      "comfort": { "t": "Comfort", "d": "The child's skin and freedom of movement first; everything else after." },
+      "care": { "t": "Care", "d": "We design as if dressing our own children." },
+      "fair": { "t": "Fair prices", "d": "Premium doesn't have to be out of reach." },
+      "durability": { "t": "Durability", "d": "Clothes that survive the wash and get handed down." },
+      "inclusion": { "t": "For everyone", "d": "Boys and girls, here and around the world — the same crown for every child." }
+    },
+    "journeyKicker": "From birth to age 10", "journeyTitle": "HC grows up with your child."
+  },
+  "contact": {
+    "lead": "We're here to help with sizes, gifts, exchanges and orders.",
+    "soon": "Channel being set up", "service": "Customer care",
+    "faqKicker": "Questions", "faqTitle": "Frequently asked questions"
+  },
+  "faq": {
+    "shipping": { "q": "Where does HC deliver?", "a": "Everywhere in Brazil. Delivery time and cost appear in the bag once you enter your CEP. Free standard shipping over R$ 299." },
+    "exchange": { "q": "How do exchanges work?", "a": "Your first exchange is free within 30 days. You may also cancel your purchase within 7 days of delivery." },
+    "sizes": { "q": "How do I choose a size?", "a": "Use the size guide on each product page. Between two sizes, choose the larger one — babies grow fast." },
+    "payment": { "q": "Which payment methods will be accepted?", "a": "Pix, credit card and boleto, processed by a certified provider. Online payment will be enabled at the official launch." },
+    "international": { "q": "Does HC ship outside Brazil?", "a": "Not yet, but the site is already available in Portuguese, English and Japanese, ready for international expansion." },
+    "care": { "q": "How should I care for the pieces?", "a": "A delicate cold wash, inside out, no bleach and drying in the shade keep colours and embroidery looking new." }
+  },
+  "footer": {
+    "about": "Premium childrenswear from birth to age 10. Comfort, style and love in every detail.",
+    "shop": "Shop", "institutional": "About", "service": "Customer care",
+    "rights": "All rights reserved.",
+    "prototype": "Pre-launch prototype: products, images and prices are for demonstration only. No sales are made."
+  },
+  "errors": {
+    "pageTitle": "Something didn't go as expected",
+    "notFoundTitle": "Page not found", "notFoundText": "The page you're looking for doesn't exist or has moved.",
+    "INTERNAL_ERROR": "We couldn't complete this right now. Please try again shortly.",
+    "INVALID_FIELD": "Please check this field.", "INVALID_EMAIL": "Enter a valid email.",
+    "INVALID_CEP": "Enter a valid 8-digit CEP.", "INVALID_SHIPPING": "Choose a shipping option.",
+    "EMPTY_CART": "Your bag is empty.", "OUT_OF_STOCK": "Some items don't have enough stock. Please review your bag.",
+    "INVALID_CART": "Please review the items in your bag.",
+    "EMAIL_IN_USE": "An account with this email already exists.", "WEAK_PASSWORD": "Use at least 8 characters, with letters and numbers.",
+    "PRIVACY_REQUIRED": "You need to accept the privacy policy.",
+    "INVALID_CREDENTIALS": "Incorrect email or password.", "TOO_MANY_ATTEMPTS": "Too many attempts. Please wait a few minutes.",
+    "UNAUTHENTICATED": "Sign in to continue.",
+    "PAYMENT_NOT_CONFIGURED": "Online payment is not active yet."
+  }
+}

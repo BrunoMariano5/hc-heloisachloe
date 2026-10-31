@@ -1,0 +1,4 @@
+node_modules/
+.env
+# Dados de execução (clientes, sessões, credenciais) — nunca versionar
+data/runtime/

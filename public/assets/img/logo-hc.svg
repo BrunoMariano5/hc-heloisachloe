@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180" role="img" aria-label="HC Heloísa Chloé">
+  <g transform="translate(88 8) scale(1)" fill="none" stroke="#b8935a" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M10 33 6 14l11 9 7-15 8 12 8-12 7 15 11-9-4 19Z"/>
+    <path d="M11 37.5h42"/>
+    <g fill="#b8935a" stroke="none">
+      <circle cx="6" cy="12" r="2.3"/><circle cx="24" cy="6.5" r="2.3"/><circle cx="40" cy="6.5" r="2.3"/><circle cx="58" cy="12" r="2.3"/>
+      <path d="M32 30.5s-4.3-2.6-4.3-5.6a2.3 2.3 0 0 1 4.3-1.2 2.3 2.3 0 0 1 4.3 1.2c0 3-4.3 5.6-4.3 5.6Z"/>
+    </g>
+  </g>
+  <text x="120" y="122" text-anchor="middle" font-family="'Cormorant Garamond', Georgia, serif" font-weight="600" font-size="78" letter-spacing="3" fill="#5e4334">HC</text>
+  <text x="122" y="160" text-anchor="middle" font-family="Jost, Helvetica, Arial, sans-serif" font-size="13" letter-spacing="7" fill="#5e4334">HELOÍSA CHLOÉ</text>
+</svg>
